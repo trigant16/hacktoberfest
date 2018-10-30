@@ -17,7 +17,7 @@ Regarder la vidéo permet de mieux comprendre le fonctionnement de hacktoberfest
 
 ```[Português]```
 Este é um projeto bom para iniciantes para ajudar você a começar a contribuir com o
-[hacktoberfest] (https://hacktoberfest.digitalocean.com/). Se você não
+[hacktoberfest](https://hacktoberfest.digitalocean.com/). Se você não
 sabe por onde começar, fique à vontade para assistir aos vídeos relacionados abaixo e
 leia as regras de contribuição. Bom hacking <3 !!
 Ao assistir ao vídeo, você entenderá melhor sobre o funcionamento do hacktoberfest e como será possível criar pull requests.
@@ -67,7 +67,7 @@ P.S. Star e compartilhe este repositório, se você se divertiu!
 - NÃO adicione nenhuma etapa de compilação, por exemplo, npm install (queremos manter um site estático simples)
 - NÃO remova Vídeos, Regras, FAQ ou qualquer outro conteúdo útil.
 - O estilo/código pode ser bonito, feio ou estúpido, grande ou pequeno, desde que funcione
-- Adicione seu nome ao arquivo [contributors.html] (https://github.com/lingonsaft/hacktoberfest/blob/master/contributors.html)
+- Adicione seu nome ao arquivo [contributors.html](https://github.com/lingonsaft/hacktoberfest/blob/master/contributors.html)
 - Tente manter os pull requests pequenos para minimizar conflitos de merge
 
 ```【日本語】```
@@ -113,7 +113,7 @@ git push origin my-new-branch
 
 -------------------------
 
-## Avoid Conflicts (Syncing your fork) /Eviter les conflits (synchroniser le fork) / Evite conflitos (sincronize seu fork)
+## Avoid Conflicts (Syncing your fork) /Eviter les conflits (synchroniser le fork) / Evite conflitos (sincronize seu fork) / 衝突を避ける（フォークを同期する方法）
 
 ```[English]``` An easy way to avoid conflicts is to add an 'upstream' for your git repo, as other PR's may be merged while you're working on your branch/fork.
 
@@ -121,6 +121,10 @@ git push origin my-new-branch
 
 ```[Português]```
 Uma maneira fácil de evitar conflitos é adicionar um 'upstream' para o seu repositório git, já que outros PRs podem ser mesclados enquanto você estiver trabalhando em seu branch / fork.
+
+```【日本語】```
+衝突を避ける簡単な方法は、自分のgitリポジトリに’upstream’を作ることです。ブランチ/フォークで作業している間に他のPRがマージされるかもしれません。
+
 
 ```terminal
 git remote add upstream https://github.com/lingonsaft/hacktoberfest
@@ -132,6 +136,8 @@ git remote add upstream https://github.com/lingonsaft/hacktoberfest
 
 ```[Português]``` Você pode verificar que seu novo controle remoto foi adicionado digitando
 
+```【日本語】``` 入力すると、新しいリモートが追加されたことを確認できます。
+
 ```terminal
 git remote -v
 ```
@@ -141,6 +147,8 @@ git remote -v
 ```[French]``` Pour pull les nouveaux changements, il suffit de taper
 
 ```[Português]``` Para realizar pull de quaisquer novas mudanças para seu repositório, simplesmente execute.
+
+```【日本語】``` 親リポジトリから新しい変更を取得するには、単に実行します。
 
 ```terminal
 git merge upstream/master
@@ -159,7 +167,12 @@ Pour plus d'info, [lire cet article de Github](https://help.github.com/articles/
 ```[Português]```
 Isso lhe dará eventuais conflitos e permitirá que você os resolva facilmente em seu repo. É uma boa ideia usá-lo com frequência entre seus próprios commits para garantir que o repo esteja atualizado com o pai.
 
-Para mais informações sobre a sincronização de garfos [leia este artigo do Github] (https://help.github.com/articles/syncing-a-fork/).
+Para mais informações sobre a sincronização de garfos [leia este artigo do Github](https://help.github.com/articles/syncing-a-fork/) .
+
+```【日本語】```
+これより、最終的な競合が発生してレポで簡単に解決できるようになります。 独自のコミットの間で頻繁に使用して、レポが親と最新の状態になっていることを確認することをお勧めします。
+
+フォークの同期の詳細については、[Githubの記事を読む](https://help.github.com/articles/syncing-a-fork/) を参照してください。
 
 -------------------------
 
