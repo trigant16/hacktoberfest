@@ -30,6 +30,7 @@ P.S. Star e compartilhe este repositório, se você se divertiu!
 始めるべきがわからない場合は、下でリンクしたビデオを見るや参加のルールを読んでることができます。ハッピーハッキング!! 
 ビデオを見ることで、「HACKTOBERFEST」の作業と「pull request」をする方法はよりうまく理解できます。
 
+
 ![Alt Text](https://raw.githubusercontent.com/lauras5/hacktoberfest/master/images/hacktoberfest2018.gif)
 
 
@@ -40,7 +41,7 @@ P.S. Star e compartilhe este repositório, se você se divertiu!
 - [Merge Conflict / comment](https://youtu.be/zOx5PJTY8CI)
 
 
-## Contribution rules/Règles de contribution/Regras de contribuição
+## Contribution rules/Règles de contribution/Regras de contribuição/参加のルール
 
 ```[English]```
 - The project must work when opening [index.html](https://github.com/lingonsaft/hacktoberfest/blob/master/index.html)
@@ -60,7 +61,7 @@ P.S. Star e compartilhe este repositório, se você se divertiu!
 - Ajoutez votre nom d'utilisateur au fichier [contributors.html](https://github.com/lingonsaft/hacktoberfest/blob/master/contributors.html)
 - Essayez de garder les pull request petit pour minimiser les conflits.
 
-```[Português```
+```[Português]```
 - O projeto deve funcionar ao abrir [index.html] (https://github.com/lingonsaft/hacktoberfest/blob/master/index.html)
 - Você tem permissão para fazer pedidos de pull que violam as regras. Nós apenas não vamos realizar o merge ;)
 - NÃO adicione nenhuma etapa de compilação, por exemplo, npm install (queremos manter um site estático simples)
@@ -68,6 +69,15 @@ P.S. Star e compartilhe este repositório, se você se divertiu!
 - O estilo/código pode ser bonito, feio ou estúpido, grande ou pequeno, desde que funcione
 - Adicione seu nome ao arquivo [contributors.html] (https://github.com/lingonsaft/hacktoberfest/blob/master/contributors.html)
 - Tente manter os pull requests pequenos para minimizar conflitos de merge
+
+```【日本語】```
+- [index.html](https://github.com/lingonsaft/hacktoberfest/blob/master/index.html)を開くときにプロジェクトが動作するのは必要です。
+- ルールを破る「pull request」とは禁止。そんなポストはマージすることができません
+- npm installなどのビルドステップを入れないでください。（これは単純な静的サイトで）
+- ビデオ、ルール、FAQ、その他の有用なコンテンツを削除しないでください
+- スタイリング/コードは動作している限り、きれい、醜い、または愚かでも、大きくても小さくてもかまいません
+- [contributors.html](https://github.com/lingonsaft/hacktoberfest/blob/master/contributors.html)に名前を入れてください
+- マージの競合を最小限に抑えるために「pull request」を小さく保つようにしてください
 
 ## Getting Started/Pour commencer/Começando
 
