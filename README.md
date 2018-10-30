@@ -23,6 +23,13 @@ leia as regras de contribuição. Bom hacking <3 !!
 Ao assistir ao vídeo, você entenderá melhor sobre o funcionamento do hacktoberfest e como será possível criar pull requests.
 P.S. Star e compartilhe este repositório, se você se divertiu!
 
+
+```【日本語】```
+これは「HACKTOBERFEST」の始まるを手伝う為、簡単なプロジェクトです。
+このリポジトリは、初心者がステップアップするとオープンソースコミュニティに参加できるためのものです。ぜひ遠慮なく自由に参加してください。
+始めるべきがわからない場合は、下でリンクしたビデオを見るや参加のルールを読んでることができます。ハッピーハッキング!! 
+ビデオを見ることで、「HACKTOBERFEST」の作業と「pull request」をする方法はよりうまく理解できます。
+
 ![Alt Text](https://raw.githubusercontent.com/lauras5/hacktoberfest/master/images/hacktoberfest2018.gif)
 
 
