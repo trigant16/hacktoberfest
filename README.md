@@ -34,7 +34,7 @@ P.S. Star e compartilhe este repositório, se você se divertiu!
 ![Alt Text](https://raw.githubusercontent.com/lauras5/hacktoberfest/master/images/hacktoberfest2018.gif)
 
 
-## Videos/Vidéos/Vídeos
+## Videos/Vidéos/Vídeos/ビデオ
 
 - [Hacktoberfest Intro](https://youtu.be/OsAFX_ZbgaE)
 - [How to pull request [Overview]](https://youtu.be/DIj2q02gvKs)
@@ -79,13 +79,13 @@ P.S. Star e compartilhe este repositório, se você se divertiu!
 - [contributors.html](https://github.com/lingonsaft/hacktoberfest/blob/master/contributors.html)に名前を入れてください
 - マージの競合を最小限に抑えるために「pull request」を小さく保つようにしてください
 
-## Getting Started/Pour commencer/Começando
+## Getting Started/Pour commencer/Começando/始める方法
 
-- Fork this repo (button on top) / Forker le repo (bouton en haut de la page) / Faça fork desse repositório (botão no topo)
+- Fork this repo (button on top) / Forker le repo (bouton en haut de la page) / Faça fork desse repositório (botão no topo) / このレポをフォークする（上のボタン）
 
 ![alt text](https://github.com/iyerkritika/hacktoberfest/blob/master/images/fork.png) <!--replace iyerkritika with lingonsaft-->
 
-- Clone on your local machine / Cloner sur votre machine en local / Faça clone para sua máquina local
+- Clone on your local machine / Cloner sur votre machine en local / Faça clone para sua máquina local / ローカルマシンでクローンする
 
 ![alt text](https://github.com/iyerkritika/hacktoberfest/blob/master/images/clone.png) <!--replace iyerkritika with lingonsaft-->
 
@@ -94,13 +94,13 @@ git clone https://github.com/<your username>/hacktoberfest.git
 cd hacktoberfest
 ```
 
-- Create a new branch / Créer une nouvelle branche / Crie uma nova branch
+- Create a new branch / Créer une nouvelle branche / Crie uma nova branch / 新しいブランチを作る
 
 ```terminal
 git checkout -b my-new-branch
 ```
 
-- Add your contribution / Ajouter votre contribution / Adicione sua contribuição
+- Add your contribution / Ajouter votre contribution / Adicione sua contribuição / 自分の投稿を入れる
 - Commit and push
 
 ```terminal
@@ -109,7 +109,7 @@ git commit -m "your-commit-msg"
 git push origin my-new-branch
 ```
 
-- Create a new pull request from your forked repository /Créer une pull request à partir de votre repo / Crie um novo pull request do  repositório que você fez fork
+- Create a new pull request from your forked repository /Créer une pull request à partir de votre repo / Crie um novo pull request do  repositório que você fez fork / フォークされたリポジトリから新しい「pull request」を作成する
 
 -------------------------
 
